@@ -6,7 +6,7 @@ This repository contains a serverless architecture for streaming data analysis t
 
 
 ## Architecture Diagram
-![](Diagram.jpeg)
+![image](https://user-images.githubusercontent.com/34812655/133817126-23df1d9d-78bd-4bae-a6d0-2b9a59b766c5.png)
 
 ## Steps to Reproduce Architecture
 ### Roles
